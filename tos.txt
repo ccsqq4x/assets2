@@ -1,0 +1,39 @@
+xBlizard Terms of Service
+
+Last Updated: April 4, 2025
+
+Welcome to xBlizard, a Roblox trade advertisement bot ("the Software") developed by @bart33kd ("the Developer"), reachable on Roblox and Discord as @bart33kd. By using xBlizard, you agree to be bound by the following Terms of Service ("ToS"). Please read them carefully.
+
+1. License Grant
+   The Developer grants you a non-exclusive, non-transferable, revocable license to use xBlizard for personal, non-commercial purposes only, subject to compliance with this ToS. This license is tied to your unique license key, which must remain confidential.
+
+2. Restrictions
+   You are expressly prohibited from:
+   a. Distributing, sharing, or providing the xBlizard executable (.exe) file or any part of the Software to any third party.
+   b. Reverse-engineering, decompiling, disassembling, or attempting to derive the source code of xBlizard.
+   c. Modifying, adapting, or creating derivative works of the Software.
+   d. Selling, leasing, renting, or sublicensing xBlizard to others.
+   e. Using xBlizard for any illegal, unauthorized, or commercial purposes beyond its intended use.
+
+3. Intellectual Property
+   xBlizard, including its code, design, and associated materials, is the sole property of the Developer (@bart33kd) and is protected by copyright and other intellectual property laws. Unauthorized copying or distribution constitutes a violation of these rights and may result in legal action.
+
+4. License Key
+   Your license key is personal to you and must not be shared. Sharing your license key with others will result in immediate termination of your license and access to xBlizard.
+
+5. Privacy
+   The Developer (@bart33kd) retains only your Roblox Player ID and license key, which are necessary for the operation of xBlizard. The Developer does not collect, store, or share your _RoliVerification cookie or any other personal information beyond what is required for functionality. Your sensitive data, including the _RoliVerification cookie, remains solely on your device and is not transmitted to or accessed by the Developer or any third party.
+
+6. Termination
+   The Developer reserves the right to terminate your license at any time if you breach this ToS. Upon termination, you must cease all use of xBlizard and destroy any copies in your possession.
+
+7. No Warranty
+   xBlizard is provided "as is" without warranties of any kind, express or implied. The Developer is not liable for any damages arising from your use of the Software, including but not limited to data loss, account bans, or financial loss.
+
+8. Limitation of Liability
+   In no event shall the Developer be liable for any indirect, incidental, or consequential damages related to the use or inability to use xBlizard.
+
+9. Governing Law
+   This ToS applies universally across all countries. Any disputes arising hereunder shall be resolved in accordance with applicable international and local laws where the Software is used.
+
+By clicking "Accept" below, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree, you may not use xBlizard.
