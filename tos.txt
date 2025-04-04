@@ -2,7 +2,7 @@ xBlizard Terms of Service
 
 Last Updated: April 4, 2025
 
-Welcome to xBlizard, a Roblox trade advertisement bot ("the Software") developed by @bart33kd ("the Developer"), reachable on Roblox and Discord as @bart33kd. By using xBlizard, you agree to be bound by the following Terms of Service ("ToS"). Please read them carefully.
+Welcome to xBlizard, a Roblox trade advertisement bot ("the Software") developed by @bart33kd ("the Developer"), reachable on Roblox as @Yzemi4K and Discord as @Yzemi. By using xBlizard, you agree to be bound by the following Terms of Service ("ToS"). Please read them carefully.
 
 1. License Grant
    The Developer grants you a non-exclusive, non-transferable, revocable license to use xBlizard for personal, non-commercial purposes only, subject to compliance with this ToS. This license is tied to your unique license key, which must remain confidential.
